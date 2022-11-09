@@ -17,3 +17,18 @@ int CountDig(int number)
 }
 Console.WriteLine();
 Console.WriteLine($"В числе {num} - {count} цифр");
+
+//Console.Write("Введите число: ");
+//int num = int.Parse(Console.ReadLine());
+//int GetNum(int number)
+//{
+//    int count = 0;
+//    while(number >= 1)
+//    {
+//          int num = number / 10;
+//          number = num;
+//          count++;
+//    }
+//    return count;
+//}
+//Console.WriteLine(GetNum(number));
